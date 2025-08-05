@@ -1,0 +1,229 @@
+{
+  "sample": "00001XXX",
+  "name": "测试",
+  "sex": "男",
+  "birth": "2000-02-30",
+  "diag": "癫痫？",
+  "father": "正常",
+  "mother": "正常",
+  "send": "2022-10-25",
+  "unit": "未知医院",
+  "clinic": "不详",
+  "barcode": "",
+  "majors": [
+    {
+      "symbol": "DOK7",
+      "expclass": "0-0-0/3",
+      "summary": "该基因是MRX109（X 连锁智力发育障碍-109）的致病基因，为X连锁隐性遗传；临床特征为轻度至中度智力发育受损，与学习困难、沟通障碍、注意力问题、多动症和自闭症行为相关；HGMD示在部分性癫痫伴智力发育障碍等疾病中有报道。",
+      "function": ".",
+      "treatment": "基因突变引起的癫痫应使用多重作用机制的抗癫痫药物，如丙戊酸、托吡酯、氯硝安定等。",
+      "pathogenic": "该基因编码的蛋白质对于神经肌肉突触发生是必不可少的，在肌肉特异性受体激酶的神经激活中起作用，可能与疾病相关；纯合敲除小鼠模型示异常的神经肌肉突触形态、肌肉无力和早期死亡等；HGMD示在精神分裂症等疾病中有报道。",
+      "phenotypes": [],
+      "rank": "B",
+      "know": true,
+      "pli": 0.00010263,
+      "prec": 0.94894,
+      "snvs": [
+        {
+          "gene": "DOK7",
+          "chr": "chr4",
+          "pos": 3478219,
+          "conseq": "错义变异",
+          "mrna": "NM_173660.5",
+          "base": "c.482G\u003eA",
+          "protein": "NP_775931.3",
+          "amino": "p.G161E",
+          "harm": 8,
+          "gnomad": 0,
+          "gnomadeas": 0,
+          "gnomadhom": 0,
+          "case": "杂合",
+          "father": "阴性",
+          "mother": "杂合",
+          "source": "母源",
+          "rank": "A"
+        },
+        {
+          "gene": "DOK7",
+          "chr": "chr4",
+          "pos": 3494671,
+          "conseq": "错义变异",
+          "mrna": "NM_173660.5",
+          "base": "c.958A\u003eG",
+          "protein": "NP_775931.3",
+          "amino": "p.K320E",
+          "harm": 3,
+          "gnomad": 0.0000254107004459578,
+          "gnomadeas": 0.000169923534409516,
+          "gnomadhom": 0,
+          "case": "杂合",
+          "father": "杂合",
+          "mother": "阴性",
+          "source": "父源",
+          "rank": "A"
+        }
+      ]
+    },
+    {
+      "symbol": "ABCA7",
+      "expclass": "3-0-0/3",
+      "summary": "该基因是AD9（阿尔茨海默病-9）的易感基因，为常染色体显性遗传。%s。原因如下： 编码ATP结合盒（ABC）转运蛋白超家族的成员，催化特定磷脂从细胞质转移到膜的细胞外/腔内小叶，与ATP的水解偶联，可能与疾病相关；纯合敲除小鼠模型未见神经系统异常表现；HGMD示在发育障碍、自闭症谱系障碍、双相情感障碍等疾病中有报道。",
+      "function": "由该基因编码的蛋白质是ATP结合盒（ABC）转运蛋白超家族的成员。ABC蛋白质通过细胞外和细胞内膜运输各种分子。ABC基因分为七个不同的亚家族（ABC1，MDR / TAP，MRP，ALD，OABP，GCN20，White）。该蛋白质是ABC1亚家族的成员。ABC1亚家族的成员包括仅在多细胞真核生物中发现的唯一主要ABC亚家族。这种完全转运蛋白主要在骨髓淋巴组织中检测到，在外周血白细胞，胸腺，脾脏和骨髓中表达最高。这种蛋白质的功能尚不清楚; 然而，表达模式表明免疫系统细胞中脂质体内平衡的作用。",
+      "treatment": "基因突变引起的癫痫应使用多重作用机制的抗癫痫药物，如丙戊酸、托吡酯、氯硝安定等。",
+      "pathogenic": "该基因在编码ATP结合盒（ABC）转运蛋白超家族的成员，催化特定磷脂从细胞质转移到膜的细胞外/腔内小叶，与ATP的水解偶联，可能与疾病相关；纯合敲除小鼠模型未见神经系统异常表现；HGMD示在发育障碍、自闭症谱系障碍、双相情感障碍等疾病中有报道。",
+      "phenotypes": [
+        {
+          "symbol": "AD9",
+          "hpo": "Alzheimer disease 9, susceptibility to",
+          "chpo": "阿尔茨海默病-9，易感性",
+          "inher": "AD",
+          "disease": "表征了22名患有AD9的比利时患者的表型，其携带ABCA7基因中的推定致病变体。平均发病年龄为73岁，年龄范围为54至90岁。该表型对于AD是典型的，主要包括进行性记忆丧失。大约一半的患者出现了正面症状，包括去抑制或行为改变。其他表现包括语言障碍，抑郁和妄想。一名患者出现帕金森病，少数患者表现出轻微的锥体外系症状。脑成像倾向于显示各种脑区域的萎缩，并且许多患者具有慢性微血管病变。 2例患者的脑脊液检查显示β该基因未见相关表型描述。淀粉样蛋白（1该基因未见相关表型描述。42）减少，总tau增加，与AD一致。 4名患者的神经病理学检查显示海马皮质萎缩和神经元丢失。老年斑和神经原纤维缠结也很明显。先前报道了这些患者，并且包括具有常染色体显性遗传（DR170）的家族。"
+        }
+      ],
+      "rank": "C",
+      "pli": 0,
+      "prec": 0.007,
+      "know": false,
+      "snvs": [
+        {
+          "gene": "ABCA7",
+          "chr": "chr19",
+          "pos": 1049296,
+          "conseq": "错义变异",
+          "mrna": "NM_019112.4",
+          "base": "c.2412T\u003eG",
+          "protein": "NP_061985.2",
+          "amino": "p.S804R",
+          "harm": 1,
+          "gnomad": 0,
+          "gnomadeas": 0,
+          "gnomadhom": 0,
+          "case": "杂合",
+          "father": "阴性",
+          "mother": "杂合",
+          "source": "母源",
+          "rank": "B"
+        },
+        {
+          "gene": "ABCA7",
+          "chr": "chr19",
+          "pos": 1051189,
+          "conseq": "错义变异",
+          "mrna": "NM_019112.4",
+          "base": "c.2720G\u003eA",
+          "protein": "NP_061985.2",
+          "amino": "p.R907Q",
+          "harm": 3,
+          "gnomad": 0.00000805140013848408,
+          "gnomadeas": 0.0000544188071397475,
+          "gnomadhom": 0,
+          "case": "杂合",
+          "father": "杂合",
+          "mother": "阴性",
+          "source": "父源",
+          "rank": "B"
+        }
+      ]
+    }
+  ],
+  "minors": [
+    {
+      "symbol": "APOO",
+      "expclass": "3, 0, 0/2",
+      "summary": ".",
+      "function": ".",
+      "treatment": ".",
+      "phenotypes": [],
+      "rank": "list",
+      "snvs": [
+        {
+          "gene": "APOO",
+          "chr": "chrX",
+          "pos": 23876833,
+          "conseq": "错义变异",
+          "mrna": "NM_024122.5",
+          "base": "c.406C\u003eG",
+          "protein": "NP_077027.1",
+          "amino": "p.L136V",
+          "harm": 2,
+          "gnomad": 0,
+          "gnomadeas": 0,
+          "gnomadhom": 0,
+          "case": "半合",
+          "father": "阴性",
+          "mother": "杂合",
+          "source": "母源",
+          "rank": "list"
+        }
+      ]
+    },
+    {
+      "symbol": "DEPDC5",
+      "expclass": "1, 3, 1/1",
+      "summary": "该基因为FFEVF1（病灶多变的家族性局灶性癫痫-1）的致病基因，为常染色体显性遗传。",
+      "function": "该基因编码参与G蛋白信号通路的IML1蛋白家族成员。mTORC1通路的靶标可通过感知营养物的多寡来调控细胞生长。该基因编码的蛋白质是GATOR1(对Rags的GAP活性)复合物的组分，它抑制mTORC1通路的氨基酸感知分支。该基因变异与FFEVF1有关。",
+      "treatment": ".",
+      "phenotypes": [
+        {
+          "symbol": "FFEVF1",
+          "hpo": "Epilepsy, familial focal, with variable foci 1",
+          "chpo": "家族性多发局灶性癫痫",
+          "inher": "AD",
+          "disease": "常染色体显性遗传。其特征在于来自不同家族成员的不同皮层区域的局灶性癫痫发作。癫痫发作通常发生在10~20岁内。许多患者在癫痫发作期间具有先兆和自动症表现，一些患者可能有夜间癫痫发作。部分患者表现为发作间期脑电图异常，部分患者患有智力障碍或自闭症谱系障碍。电生理、脑影像学和/或组织学研究表明，部分患者有轻微或明显的皮质发育不良。"
+        }
+      ],
+      "rank": "list",
+      "snvs": [
+        {
+          "gene": "DEPDC5",
+          "chr": "chr22",
+          "pos": 32218774,
+          "conseq": "错义变异",
+          "mrna": "NM_001242896.3",
+          "base": "c.2102C\u003eT",
+          "protein": "NP_001229825.1",
+          "amino": "p.A701V",
+          "harm": 2,
+          "gnomad": 0.0000563189907636855,
+          "gnomadeas": 0.000724556905584662,
+          "gnomadhom": 0,
+          "case": "杂合",
+          "father": "杂合",
+          "mother": "阴性",
+          "source": "父源",
+          "rank": "list"
+        }
+      ]
+    },
+    {
+      "symbol": "DNAH3",
+      "expclass": "2, 0, 0/3",
+      "summary": ".",
+      "function": ".",
+      "treatment": ".",
+      "phenotypes": [],
+      "rank": "list",
+      "snvs": [
+        {
+          "gene": "DNAH3",
+          "chr": "chr16",
+          "pos": 20966188,
+          "conseq": "错义变异",
+          "mrna": "NM_017539.2",
+          "base": "c.11018G\u003eA",
+          "protein": "NP_060009.1",
+          "amino": "p.G3673D",
+          "harm": 5,
+          "gnomad": 0.00000795899525643883,
+          "gnomadeas": 0.0000543714658547194,
+          "gnomadhom": 0,
+          "case": "杂合",
+          "father": "阴性",
+          "mother": "杂合",
+          "source": "母源",
+          "rank": "list"
+        }
+      ]
+    }
+  ]
+}
